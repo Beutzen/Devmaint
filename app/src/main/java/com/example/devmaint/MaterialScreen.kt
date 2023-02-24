@@ -45,12 +45,7 @@ fun TopAppBar(scaffoldState: ScaffoldState? = null , scope: CoroutineScope? = nu
 }
 
 @Composable
-fun BottomBar() {
+fun MaterialScreen() {
 
 }
 
-@Preview(showBackground = true)
-@Composable
-fun TopAppBarPreview() {
-    TopAppBar()
-}
